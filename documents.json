@@ -7,11 +7,11 @@
     {
         "id": 2,
         "title": "Flask",
-        "content": "Flask is a lightweight web framework."
+        "content": "Flask python is a lightweight web framework."
     },
     {
         "id": 3,
         "title": "Football",
-        "content": "Football is a popular sport."
+        "content": "Football python is a popular sport."
     }
 ]
